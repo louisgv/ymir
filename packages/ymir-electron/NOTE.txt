@@ -1,0 +1,11 @@
++ Setup electron-watch
++ Setup pouchdb to run programatically from an electron instance
++ Setup react-native application to receive 
+
+
+Credits: 
+
+https://pouchdb.com
+https://github.com/stockulus/pouchdb-react-native
+https://www.npmjs.com/package/electron-watch
+http://react-component.github.io/editor-mention/
